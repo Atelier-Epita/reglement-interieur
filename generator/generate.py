@@ -20,8 +20,7 @@ def process(path: str, output: str):
             .replace("%content%", content)
 
         pdfkit.from_string(html, output, options={
-            "margin-top": "0", "margin-bottom": "0", "margin-left": "0", "margin-right": "0",
-            "dpi": "300"})
+            "margin-top": "10", "margin-bottom": "10", "margin-left": "0", "margin-right": "0", "dpi": "300"})
 
     print(f"Processed {os.path.basename(path)}.")
 
