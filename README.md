@@ -7,7 +7,7 @@ author: L'Atelier
 
 L'association nommée "L'Atelier" a pour objet:
 
-- De créer, gérer et animer selon les modalités définies par le règlement intérieur, un espace offrant aux membres des outils de fabrication numérique ou non. Cet espace a pour vocation d’être un lieu collaboratif de création expérimentale ;
+- De créer, gérer et animer selon les modalités définies par le règlement intérieur, un espace offrant aux usagers des outils de fabrication numérique ou non. Cet espace a pour vocation d’être un lieu collaboratif de création expérimentale ;
 - De favoriser la diffusion et la transmission de compétences et de connaissances ;
 - De faciliter l’innovation technique, économique, sociale et environnementale ainsi que l’expérimentation par la pratique ;
 - D’encourager les actions responsables et durables en interaction avec l’environnement technique, naturel, économique et social ;
@@ -23,7 +23,7 @@ Le Makerspace dans les locaux de l’EPITA, au 14 rue Voltaire, 94270 Le Kremlin
 
 Les usagers du Makerspace est l’ensemble des personnes physique ayant ratifié la charte d’utilisation du Makerspace. Ils peuvent participer aux différentes activités proposées, et accéder librement aux équipements en fonctions des habilitations de ces derniers.
 L’accès au Makerspace est gratuit pour les élèves, enseignants et administratif de l’EPITA et de l’EPITECH ainsi que pour les employés de Blackfoot.
-Les personnes extérieures, doivent eux aussi ratifier la charte d’utilisation du Makerspace et être accompagné d’un usager.
+Les personnes extérieures, doivent eux aussi ratifier la charte d’utilisation du Makerspace et être accompagné d’un usager lors d'une permanence (voir ci-après).
 
 ### **2.2. StaffLab**
 
@@ -41,11 +41,11 @@ Un StaffLab peut représenter jusqu’à 3 personnes lui ayant fourni une procur
 
 ### **2.3. LabManager**
 
-Les LabManagers sont des StaffLab ayant l’habilitation nécessaire à l’utilisation des machines noires (voir ci-après) et sont désignés pour par le bureau de l’association. Ce sont les seuls à pourvoir former et donner l’habilitation aux autres membres. Ils sont les seuls à pouvoir assurer une permanence (voir ci-après).
+Les LabManagers sont des StaffLab ayant l’habilitation nécessaire à l’utilisation des machines noires (voir ci-après) et sont désignés par le bureau de l’association. Ce sont les seuls à pourvoir former et donner l’habilitation aux autres usagers. Ils sont les seuls à pouvoir assurer une permanence (voir ci-après).
 
 ### **2.4. Coordinateur de pôle**
 
-Le coordinateur de pôle est un StaffLab. Il est entouré des LabManagers et du bureau. Les missions qui sont confiés au coor-dinateur de pôle sont les suivantes :
+Le coordinateur de pôle est un StaffLab. Il est entouré des LabManagers et du bureau. Les missions qui sont confiés aux coordinateurs de pôle sont les suivantes :
 
 - Assurer le bon développement d’un des domaines d’activité de l’association ;
 - Assurer la bonne communication entre les différents corps de l’association au sujet de son domaine d’activité ;
@@ -69,7 +69,7 @@ Les mineurs peuvent accéder au Makerspace sous les conditions suivantes :
   - Doivent fournir une autorisation écrite signée par un représentant légal ;
   - Peuvent participer aux différentes activités du Makerspace comme tout usager, sous réserve du respect des mêmes devoirs (voir ci-après) ;
 - Les mineurs de moins de 16 ans :
-  - Doivent systématiquement être accompagnés d’un adulte lors des différentes activités du FabLab ;
+  - Doivent systématiquement être accompagnés d’un adulte lors des différentes activités du Makerspace ;
   - Ne peuvent pas utiliser d’équipements ;
   - Doivent respecter les mêmes devoirs que les autres usagers ;
 
@@ -87,7 +87,7 @@ Pour devenir usager du Makerspace, il faut remplir les conditions suivantes :
 
 ### **4.1. Permanences**
 
-Les permanences sont des créneaux horaires durant lequel un LabManager est systématiquement présent. Les permanences permettent aux membres d’utiliser librement les différents équipements du Makerspace, sous réserve du respect des règles d’utilisation de ces équipements (voir ci-après). C’est aussi le moment idéal pour partager ses connaissances au sein de la communauté et d’apprendre de cette même communauté.
+Les permanences sont des créneaux horaires durant lequel un LabManager est systématiquement présent. Les permanences permettent aux usagers d’utiliser librement les différents équipements du Makerspace, sous réserve du respect des règles d’utilisation de ces équipements (voir ci-après). C’est aussi le moment idéal pour partager ses connaissances au sein de la communauté et d’apprendre de cette même communauté.
 
 - Ouvert uniquement aux usagers de plus de 16 ans, et aux enfants de moins de 16 ans accompagnés par un adulte ;
 - Créneaux horaires : horaires d’ouverture du Makerspace, hors évènements spécifiques. Les horaires précis seront indiqués à l’avance sur un des canaux de communication de l’association : sur les réseaux sociaux et / ou sur la zone d’affichage du Makerspace. Ils sont actualisés fréquemment en fonction des disponibilités des LabManagers
@@ -117,6 +117,7 @@ Sont qualifiés d’équipements les outils à main, les outils électro-portati
 - Le niveau de technicité de l’appareil (voir ci-après) ;
 
 Certains petits équipements (outils à main) n’ont pas nécessairement de fiche signalétique individuelle, mais peuvent avoir une fiche commune à plusieurs équipements. Dans ce cas de figure, la fiche se situe à l’endroit où les équipements concernés sont rangés.
+
 **Important** \- Si vous ne trouvez pas la fiche signalétique, n’utilisez pas l’équipement en question ! Informez immédiatement un LabManager.
 
 ### **5.2. Niveau de technicité des équipements**
@@ -148,7 +149,7 @@ Le registre des habilitations est un document contenant la liste des usagers hab
 ### **5.5. Consignes d'utilisation**
 
 - A la fin de l’utilisation d’un équipement, et avant de quitter le Makerspace, l’usager devra s’assurer de laisser propre l’espace de travail qu’il aura utilisé, prendra soin de ne laisser aucun déchet, rendra opérationnel l’équipement après utilisation ;
-- L’usager s’engage à informer un responsable du Makerspace de tout dysfonctionnement constaté sur l’équipement durant son utilisation ;
+- L’usager s’engage à informer un StaffLab de tout dysfonctionnement constaté sur l’équipement durant son utilisation ;
 - Porter les EPI appropriés (indiqués sur la fiche signalétique de l’équipement)
 
 **Il est interdit :**
@@ -204,11 +205,13 @@ L’utilisation des consommables, composants et matières premières est soumise
 
 **Sont qualifiés de consommables d’ordre 1 tout consommables d’une valeur inférieure à 10€, au-delà, ces consommables seront qualifiés de consommables d’ordre 2.**
 
+Une exception est faite pour les capteurs qui eux sont qualitfiés de consommables d'ordre 2.
+
 ### **6.1. Consignes d'utilisation**
 
 **Les consommables d’ordre 1 sont en libre accès.** Les usagers peuvent les utiliser pour leurs projets. Ils doivent toutefois en prendre soin et les ranger après utilisation.
 
-**Tant que leur utilisation n’empêche pas leur réutilisation future** \- les usagers peuvent utiliser les consommables d’ordre 2 à disposition pour leurs différentes activités au **sein du Makerspace**, ces projets doivent rester dans le Makerspace.
+**Tant que leur utilisation n’empêche pas leur réutilisation future** \- les usagers peuvent utiliser les consommables d’ordre 2 à disposition pour leurs différentes activités **au sein du Makerspace**, ces projets doivent rester dans le Makerspace. Des casiers sécurisés peuvent être mis à disposition.
 
 **Si l’utilisation prévue rend le composant inutilisable dans des projets futurs** \- l’usager devra au préalable demander l’autorisation d’un LabManager. Ce dernier pourra alors décider de l’autoriser ou non. Un devis pourra être demandé pour le rachat du consommable (voir ci-après).
 
@@ -241,7 +244,7 @@ Les usagers ne pouvant pas directement manipuler ces machines, peuvent demander 
 ### **7.1. Prestations**
 
 Les prestations, selon la machine, la difficulté de manipulation et la quantité de consommable peuvent être gratuite ou non. Si elle ne l’est pas, un devis sera communiqué à l’usager à la suite de sa demande émise sur l’un des canaux de communication de l’association.
-Le devis peut est émis par le coordinateur du pôle associé en accord avec le bureau.
+Le devis est émis par le coordinateur du pôle associé en accord avec le bureau.
 
 **Les coordinateurs de pôles ; LabManagers ; ou le bureau, se réserve tout droit de refuser une prestation qu’ils jugent comme inappropriée ou non pertinente.**
 
@@ -282,7 +285,7 @@ Les abords et les locaux du Makerspace sont sous vidéo-surveillances. Les enreg
 
 Le Makerspace met à disposition de ses adhérents tous les EPI (Équipements de Protection Individuelle) nécessaires pour utiliser les différents équipements qui le requièrent : des gants de protection, des masques anti-poussières, des masques de soudures, des protections auditives et des protections oculaires. Si ces éléments ne sont pas disponibles sur le poste de travail, l’usager devra les demander au StaffLab. En cas de blessure lors de l’utilisation d’un équipement du Makerspace, il en a l’obligation d’informer le LabManager présent, afin de consigner l’incident dans le registre de sécurité.
 
-Les membres sont responsables de leur propre sécurité et doivent à ce titre :
+Les usagers sont responsables de leur propre sécurité et doivent à ce titre :
 
 - S’informer des risques associés à la mise en œuvre des équipements qu’ils souhaitent utiliser, au moyen de la fiche signalétique par exemple ;
 - Être habilité à utiliser l’équipement, si son niveau de technicité le requiert ;
