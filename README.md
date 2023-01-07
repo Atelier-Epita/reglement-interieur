@@ -130,7 +130,7 @@ On distingue 3 niveaux de technicité :
 
 - Vert : L’équipement est en usage libre ;
 - Orange : L’équipement ne peut être utilisé sans habilitation (voir ci-après) ;
-- Noir : L’équipement ne peut être utilisé sans la présence d’un LabManager habilité ou du propriétaire de l’équipement, afin de s’assurer que les manipulations effectuées ne créent pas de danger pour les personnes et pour l’équipement ;
+- Rouge : L’équipement ne peut être utilisé sans la présence d’un LabManager habilité ou du propriétaire de l’équipement, afin de s’assurer que les manipulations effectuées ne créent pas de danger pour les personnes et pour l’équipement ;
 
 ### **5.3. Habilitations**
 
