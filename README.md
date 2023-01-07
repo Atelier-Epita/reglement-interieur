@@ -201,7 +201,7 @@ L’utilisation des consommables, composants et matières premières est soumise
 - Blocs ou plaques métalliques (acier, aluminium ou autre) ;
 - Panneaux plastiques (acrylique, PVC, plexiglas, etc.) ;
 - Bobines de plastique pour impression 3D ;
-- Bobines de vinyle ;
+- Rouleau de vinyle ;
 
 **Sont qualifiés de consommables d’ordre 1 tout consommables d’une valeur inférieure à 10€, au-delà, ces consommables seront qualifiés de consommables d’ordre 2.**
 
