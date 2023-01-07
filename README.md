@@ -29,7 +29,7 @@ Les personnes extérieures doivent également ratifier la charte d’utilisation
 
 Le StaffLab est un usager du Makerspace, membre de l’association ayant ratifié la fiche membre, il est responsable de l’animation du Makerspace pendant une permanence (voir ci-après). Il a dans ce cadre pour mission :
 
-- D’accueillir les usagers et les éventuels visiteurs extérieurs ;
+- D’accueillir les usagers et éventuels visiteurs extérieurs ;
 - De veiller au respect du règlement intérieur, des consignes de sécurité et des règles d’utilisation des machines ;
 - De vérifier les habilitations des usagers en fonction du niveau de technicité des équipements (voir ci-après) ;
 - D’encadrer les activités des usagers et services proposés par le Makerspace ;
