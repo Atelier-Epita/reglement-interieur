@@ -15,7 +15,7 @@ L'association nommée "L'Atelier" a pour objet:
 - De promouvoir l’usage et les contributions à l’informatique, au matériel et aux contenus libres ;
 - D’organiser ou de participer à tout type de manifestation et évènement en rapport avec les points abordés précédemment.
 
-Le Makerspace dans les locaux de l’EPITA, au 14 rue Voltaire, 94270 Le Kremlin-Bicêtre est ouvert lors de permanences, assurés par au moins un LabManager (voir ci-après).
+Le Makerspace dans les locaux de l’EPITA, au 14 rue Voltaire, 94270 Le Kremlin-Bicêtre est ouvert au public lors de permanences, assurées par au moins un LabManager (voir ci-après).
 
 ## **2. Usagers du MakerSpace**
 
