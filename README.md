@@ -32,7 +32,7 @@ Le StaffLab est un usager du Makerspace, membre de l’association ayant ratifi�
 - D’accueillir les usagers et éventuels visiteurs extérieurs ;
 - De veiller au respect du règlement intérieur, des consignes de sécurité et des règles d’utilisation des machines ;
 - De vérifier les habilitations des usagers en fonction du niveau de technicité des équipements (voir ci-après) ;
-- D’encadrer les activités des usagers et services proposés par le Makerspace ;
+- D’encadrer les activités des usagers et services proposés au sein du Makerspace ;
 - De vérifier que les usagers ont ratifiés la charte d'utilisation du Makerspace ;
 
 Les StaffLab sont désignés par le bureau de l’association.
