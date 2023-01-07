@@ -33,7 +33,7 @@ Le StaffLab est un usager du Makerspace, membre de l’association ayant ratifi�
 - De veiller au respect du règlement intérieur, des consignes de sécurité et des règles d’utilisation des machines ;
 - De vérifier les habilitations des usagers en fonction du niveau de technicité des équipements (voir ci-après) ;
 - D’encadrer les activités des usagers et services proposés au sein du Makerspace ;
-- De vérifier que les usagers ont ratifiés la charte d'utilisation du Makerspace ;
+- De vérifier que les usagers aient ratifiés la charte d'utilisation du Makerspace ;
 
 Les StaffLab sont désignés par le bureau de l’association.
 Lors d’une assemblée générale ordinaire ou extraordinaire, chaque StaffLab peut prendre part aux votes. En cas d’absence physique, il peut être représenté par procuration.
@@ -45,7 +45,7 @@ Les LabManagers sont des StaffLab ayant l’habilitation nécessaire à l’util
 
 ### **2.4. Coordinateur de pôle**
 
-Le coordinateur de pôle est un StaffLab. Il est entouré des LabManagers et du bureau. Les missions qui sont confiés aux coordinateurs de pôle sont les suivantes :
+Les coordinateurs de pôle sont des StaffLab. Ils sont nommés par le bureau de l'association. Les missions qui sont confiés aux coordinateurs de pôle sont les suivantes :
 
 - Assurer le bon développement d’un des domaines d’activité de l’association ;
 - Assurer la bonne communication entre les différents corps de l’association au sujet de son domaine d’activité ;
@@ -54,8 +54,8 @@ Le coordinateur de pôle est un StaffLab. Il est entouré des LabManagers et du 
 ### **2.5. Propriétaire d'équipement**
 
 Le propriétaire d’équipement est un usager du Makerspace qui a mis à disposition, pour une durée déterminée ou non, un équipement (outil, machine, matériel informatique, etc.). Le propriétaire fixe en accord avec le bureau de l’association le niveau de technicité de l’équipement, ce qui détermine les habilitations nécessaires à son utilisation. Il doit aussi contribuer à la rédaction de la fiche signalétique de cet équipement.
-**À tout moment le propriétaire peut décider de récupérer son équipement, il doit en notifier le bureau de l’association.**
-**Attention** \- L’association ou les LabManagers ne pourront pas être tenus responsables si l’équipement est endommagé par un autre usager. Dans ce cas de figure, il faudra faire appel à l’assurance Responsabilité Civile de l’usager ayant dégradé l’équipement.
+**Le propriétaire peut décider de récupérer son équipement à tout moment en ayant notifié le bureau de l’association au préalable.**
+**Attention** \- L’association ou les LabManagers ne pourront être tenu responsables si l’équipement est endommagé par un autre usager. Dans ce cas de figure, il faudra faire appel à l’assurance Responsabilité Civile de l’usager ayant dégradé l’équipement.
 
 ### **2.6. Visiteurs**
 
@@ -63,17 +63,17 @@ Un visiteur est une personne physique n’ayant pas ratifié la charte. Les visi
 
 ### **2.7. Accès aux mineurs**
 
-Les mineurs peuvent accéder au Makerspace sous les conditions suivantes :
+Les mineurs de 18 ans peuvent accéder au Makerspace sous les conditions suivantes :
 
-- Les mineurs de 16 ans ou plus :
+- Les majeurs de 16 ans compris :
   - Doivent fournir une autorisation écrite signée par un représentant légal ;
   - Peuvent participer aux différentes activités du Makerspace comme tout usager, sous réserve du respect des mêmes devoirs (voir ci-après) ;
-- Les mineurs de moins de 16 ans :
+- Les mineurs de 16 ans :
   - Doivent systématiquement être accompagnés d’un adulte lors des différentes activités du Makerspace ;
   - Ne peuvent pas utiliser d’équipements ;
   - Doivent respecter les mêmes devoirs que les autres usagers ;
 
-## **3. Droit et devoirs des usagers**
+## **3. Droits et devoirs des usagers**
 
 Pour devenir usager du Makerspace, il faut remplir les conditions suivantes :
 
@@ -90,17 +90,17 @@ Pour devenir usager du Makerspace, il faut remplir les conditions suivantes :
 Les permanences sont des créneaux horaires durant lequel un LabManager est systématiquement présent. Les permanences permettent aux usagers d’utiliser librement les différents équipements du Makerspace, sous réserve du respect des règles d’utilisation de ces équipements (voir ci-après). C’est aussi le moment idéal pour partager ses connaissances au sein de la communauté et d’apprendre de cette même communauté.
 
 - Ouvert uniquement aux usagers de plus de 16 ans, et aux enfants de moins de 16 ans accompagnés par un adulte ;
-- Créneaux horaires : horaires d’ouverture du Makerspace, hors évènements spécifiques. Les horaires précis seront indiqués à l’avance sur un des canaux de communication de l’association : sur les réseaux sociaux et / ou sur la zone d’affichage du Makerspace. Ils sont actualisés fréquemment en fonction des disponibilités des LabManagers
+- Créneaux horaires : horaires d’ouverture du Makerspace, hors évènements spécifiques. Les horaires précis seront indiqués à l’avance sur un des canaux de communication de l’association : sur les réseaux sociaux et / ou sur la zone d’affichage du Makerspace. Ils sont actualisés fréquemment en fonction des disponibilités des LabManagers ;
 
 ### **4.2. Évenements**
 
-Un évènement, est organisés par un animateur sur le thème de son choix (validé au préalable avec le bureau de l’association). Il se déroule pendant un créneau horaire (validé au préalable avec le bureau de l’association). Un événement peut être :
+Un évènement peut être organisé par un membre de l'association en tant qu'animateur sur le thème de son choix (validé au préalable avec le bureau de l’association). Il se déroule pendant un créneau horaire (validé au préalable avec le bureau de l’association). Un événement peut être :
 
 - Ouvert uniquement aux StaffLab (cf. alinéa 2.2)
-- Ouvert à tout usagers selon les modalités d’accueils d’un usager (cf. alinéa 2.1)
-- Ouvert au public selon les modalités d’accueils d’un visiteur (cf. alinéa 2.4)
+- Ouvert à tout usager selon les modalités d’accueil d’un usager (cf. alinéa 2.1)
+- Ouvert au public selon les modalités d’accueil d’un visiteur (cf. alinéa 2.4)
 
-Ces évènements peuvent aussi demander une inscription en amont de l'évenement.
+Ces évènements peuvent nécessiter une inscription en amont.
 
 ## **5. Équipements du Makerspace**
 
@@ -109,7 +109,7 @@ Sont qualifiés d’équipements les outils à main, les outils électro-portati
 
 ### **5.1. Fiche signalétique**
 
-À proximité de chaque équipement vous trouverez une fiche signalétique plastifiée. Cette fiche communique des informations importantes sur l’équipement en question, notamment :
+À proximité de chaque équipement est présente une fiche signalétique plastifiée. Cette fiche communique des informations importantes sur l’équipement en question, notamment :
 
 - Les EPI (Équipements de Protection Individuelle) à porter impérativement ;
 - Les règles de sécurité ou consignes d’utilisation spécifiques à cet équipement ;
@@ -118,7 +118,7 @@ Sont qualifiés d’équipements les outils à main, les outils électro-portati
 
 Certains petits équipements (outils à main) n’ont pas nécessairement de fiche signalétique individuelle, mais peuvent avoir une fiche commune à plusieurs équipements. Dans ce cas de figure, la fiche se situe à l’endroit où les équipements concernés sont rangés.
 
-**Important** \- Si vous ne trouvez pas la fiche signalétique, n’utilisez pas l’équipement en question ! Informez immédiatement un LabManager.
+**Important** \- Si vous ne trouvez pas la fiche signalétique, n’utilisez pas l’équipement en question ! Informez immédiatement un LabManager. L'ensemble des fiches est regroupé sur le GitHub de l'association : `https://github.com/Atelier-Epita/fiches-machines`
 
 ### **5.2. Niveau de technicité des équipements**
 
@@ -144,18 +144,18 @@ L’habilitation à l’utilisation d’un appareil doit être effectuée par un
 
 ### **5.4. Registre des habilitations**
 
-Le registre des habilitations est un document contenant la liste des usagers habilités à utiliser un équipement spécifique. Il est tenu à jour par le coordinateur du pôle associé ; par le LabManager habilité sur l’équipement en question ; ou par le propriétaire de l’équipement.
+Le registre des habilitations est un document contenant la liste des usagers habilités à utiliser un équipement spécifique. Il est tenu à jour par le coordinateur du pôle associé ou par un LabManager habilité sur l’équipement en question ou par le propriétaire de l’équipement.
 
 ### **5.5. Consignes d'utilisation**
 
-- A la fin de l’utilisation d’un équipement, et avant de quitter le Makerspace, l’usager devra s’assurer de laisser propre l’espace de travail qu’il aura utilisé, prendra soin de ne laisser aucun déchet, rendra opérationnel l’équipement après utilisation ;
+- Après utilisation d’un équipement, et avant de quitter le Makerspace, l’usager doit s’assurer de laisser propre l’espace de travail qu’il a utilisé, prendre soin de ne laisser aucun déchet et rendre opérationnel l'équipement pour les futurs usagers ;
 - L’usager s’engage à informer un StaffLab de tout dysfonctionnement constaté sur l’équipement durant son utilisation ;
 - Porter les EPI appropriés (indiqués sur la fiche signalétique de l’équipement)
 
 **Il est interdit :**
 
 - D’emporter hors des locaux les équipements mis à disposition si une fiche de prêt n’a pas été réalisée au préalable (voir ci-après) ;
-- De manger ou boire à proximité des équipements;
+- De manger ou boire à proximité des équipements ;
 - De se mettre en danger ou de mettre en danger les autres usagers par une utilisation inappropriée des équipements mis à leur disposition ;
 
 ### **5.6. Dégradations et maintenance des équipements**
@@ -168,14 +168,14 @@ Les usagers doivent prendre soin des équipements mis à leur disposition, signa
 
 ### **5.7. Registre des équipements**
 
-Le registre des équipements est un document contenant la liste des équipements du Makerspace, leur état de fonctionnement, leur niveau de technicité, leur date de dernière maintenance ainsi que tout autres informations jugés utiles par le coordinateur du pôle associé. Il est tenu à jour par le coordinateur du pôle associé ; par le LabManager ; ou par le propriétaire de l’équipement.
+Le registre des équipements est un document contenant la liste des équipements du Makerspace, leur état de fonctionnement, leur niveau de technicité, leur date de dernière maintenance ainsi que tout autres informations jugés utiles par le coordinateur du pôle associé. Il est tenu à jour par le coordinateur du pôle associé ou par le LabManager ou par le propriétaire de l’équipement.
 
 Toute panne majeure, anomalie ou dégradation d’un équipement doit être consignée dans le registre des équipements.
 
 ### **5.8. Fiche de prêt**
 
 Une fiche de prêt est un document permettant de prêter un équipement hors des locaux du Makerspace.
-À travers son remplissage, l’usager s’engage à respecter les règles de sécurité et de bon usage des équipements du Makerspace.
+Par son remplissage, l’usager s’engage à respecter les règles de sécurité et de bon usage de l'équipement emprunté.
 
 Cette fiche doit:
 
@@ -215,7 +215,7 @@ Une exception est faite pour les capteurs qui eux sont qualitfiés de consommabl
 
 **Si l’utilisation prévue rend le composant inutilisable dans des projets futurs** \- l’usager devra au préalable demander l’autorisation d’un LabManager. Ce dernier pourra alors décider de l’autoriser ou non. Un devis pourra être demandé pour le rachat du consommable (voir ci-après).
 
-Les usagers doivent uniquement se servir dans les stocks de matières premières, consommables. **En aucun cas ils ne peuvent prendre l’initiative de démonter le projet d’un autre usager, terminé ou non**. Les projets qui sont destinés à être réutilisés seront démontés par leurs créateurs ou par les LabManagers et leurs composants et matières premières réutilisables seront rangées dans les stocks.
+Les usagers doivent uniquement se servir dans les stocks de matières premières, consommables. **Un usager ne peut en aucun cas prendre l’initiative de démonter le projet d’un autre usager, terminé ou non**. Les projets qui sont destinés à être réutilisés seront démontés par leurs créateurs ou par les LabManagers et leurs composants et matières premières réutilisables seront réintégrés aux stocks.
 
 ### **6.2. Rachat**
 
@@ -223,7 +223,7 @@ Conformément à l’article 6.1, tout projet ayant nécessité des composants d
 
 Cependant, si l’usager ne souhaite pas laisse son projet au Makerspace, il a la possibilité de racheter les composants d’ordre 2 utilisés pour son projet. Ce rachat doit être demandé à un LabManager, qui traitera la demande de rachat en accord avec le bureau et le coordinateur du pôle associé. (afin de fixer le prix de rachat notamment).
 
-### **6.3. Matières premiers, composants et consommables personnels**
+### **6.3. Matières premières, composants et consommables personnels**
 
 Tout usager a la possibilité d’apporter au Makerspace ses propres matières premières, composants et consommables. Il pourra ainsi repartir avec son projet sans devoir racheter les composants utilisés.
 
@@ -231,22 +231,22 @@ Tout usager a la possibilité d’apporter au Makerspace ses propres matières p
 
 ## **7. Règles relatives à l'utilisation de certaines machines et consommables**
 
-L’utilisation de certaines machines étants restreint aux StaffLab de l’association habilités à ces dernières, les consommables qui découlent de leurs utilisations sont soumises à des conditions qui leurs sont spécifiques. On peut citer parmi ces machines les suivantes :
+L’utilisation de certaines machines étant restreinte aux StaffLab de l’association habilités à ces dernières, les consommables qui découlent de leurs utilisations sont soumises à des conditions qui leurs sont spécifiques. On peut citer parmi ces machines les suivantes :
 
 - Imprimantes 3D FDM (bobines de plastique) ;
 - Imprimantes 3D Résines (résine liquide) ;
 - Brodeuse textile (fil à broder) ;
-- Découpeuse vinyle et presse à chaud (bobine de vinyle) ;
+- Découpeuse vinyle et presse à chaud (rouleau de vinyle) ;
 - Imprimante textile (encre) ;
 
 Les usagers ne pouvant pas directement manipuler ces machines, peuvent demander une prestation de l’utilisation de ces dernières à l'association.
 
 ### **7.1. Prestations**
 
-Les prestations, selon la machine, la difficulté de manipulation et la quantité de consommable peuvent être gratuite ou non. Si elle ne l’est pas, un devis sera communiqué à l’usager à la suite de sa demande émise sur l’un des canaux de communication de l’association.
+Les prestations, selon la machine, la difficulté de manipulation et la quantité de consommable peuvent être gratuites ou non. Si nécessaire, un devis sera communiqué à l’usager à la suite de sa demande émise sur l’un des canaux de communication de l’association.
 Le devis est émis par le coordinateur du pôle associé en accord avec le bureau.
 
-**Les coordinateurs de pôles ; LabManagers ; ou le bureau, se réserve tout droit de refuser une prestation qu’ils jugent comme inappropriée ou non pertinente.**
+**Les coordinateurs de pôles, les LabManagers ou le bureau, se réservent tout droit de refuser une prestation qu’ils jugent comme inappropriée ou non pertinente.**
 
 #### **7.1.1. Imprimantes 3D FDM**
 
@@ -283,7 +283,7 @@ Les abords et les locaux du Makerspace sont sous vidéo-surveillances. Les enreg
 
 ## **11. Sécurité des personnes**
 
-Le Makerspace met à disposition de ses adhérents tous les EPI (Équipements de Protection Individuelle) nécessaires pour utiliser les différents équipements qui le requièrent : des gants de protection, des masques anti-poussières, des masques de soudures, des protections auditives et des protections oculaires. Si ces éléments ne sont pas disponibles sur le poste de travail, l’usager devra les demander au StaffLab. En cas de blessure lors de l’utilisation d’un équipement du Makerspace, il en a l’obligation d’informer le LabManager présent, afin de consigner l’incident dans le registre de sécurité.
+Le Makerspace met à disposition de ses adhérents tous les EPI (Équipements de Protection Individuelle) nécessaires pour utiliser les différents équipements qui le requièrent : des gants de protection, des masques anti-poussières, des masques de soudures, des protections auditives et des protections oculaires. Si ces éléments ne sont pas disponibles sur le poste de travail, l’usager doit les demander à un StaffLab. En cas de blessure lors de l’utilisation d’un équipement du Makerspace, il en a l’obligation d’informer le LabManager présent, afin de consigner l’incident dans le registre de sécurité.
 
 Les usagers sont responsables de leur propre sécurité et doivent à ce titre :
 
@@ -300,10 +300,10 @@ Cf. : arrêté du 14 octobre 2002 relatif à la protection contre les risques d�
 En cas d’incendie ou d’exercice d’évacuation, l’alarme est donnée le plus rapidement possible : il est obligatoire de faire évacuer les usagers des locaux, et de les accompagner au point de rassemblement défini.
 Consignes à respecter en cas de danger imminent :
 
-- Déclencher l’alarme sonore, prévenez le LabManager le plus rapidement possible ;
+- Déclencher l’alarme sonore et prévenir le LabManager présent le plus rapidement possible ;
 - Prévenir les sapeurs-pompiers en composant le 18 (leur indiquer votre localisation, et numéro de téléphone) ;
 - Quitter le bâtiment en fermant derrière vous les portes (sans les verrouiller) et fenêtres ;
-- Rejoindre la zone de rassemblement à l’extérieur, y rester jusqu’à autorisation expresse de regagner le bâtiment donné par les sapeurs-pompiers ;
+- Rejoindre la zone de rassemblement à l’extérieur, y rester jusqu’à autorisation expresse de regagner le bâtiment donnée par les sapeurs-pompiers ;
 
 ## **13. Engagement**
 
