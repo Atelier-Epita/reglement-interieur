@@ -239,7 +239,7 @@ L’utilisation de certaines machines étant restreinte aux StaffLab de l’asso
 - Découpeuse vinyle et presse à chaud (rouleau de vinyle) ;
 - Imprimante textile (encre) ;
 
-Les usagers ne pouvant pas directement manipuler ces machines, peuvent demander une prestation de l’utilisation de ces dernières à l'association.
+Les usagers ne peuvent pas directement manipuler ces machines mais peuvent demander une prestation de l’utilisation de ces dernières à l'association.
 
 ### **7.1. Prestations**
 
@@ -277,13 +277,13 @@ Les activités sont systématiquement encadrées par au moins un StaffLab à qui
 
 ## **10. Vidéo-Surveillance**
 
-Les abords et les locaux du Makerspace sont sous vidéo-surveillances. Les enregistrements sont conservés pendant une durée légale, et serviront à lever d'éventuels doutes.
+Les abords et les locaux du Makerspace sont sous vidéo-surveillances. Les enregistrements sont conservés pendant une durée légale de 30 jours, et serviront à lever d'éventuels doutes.
 
 <!-- TODO: conformément à [...] blabla - les espaces de travail et de repos ne sont pas placés sous vidéo surveillances -->
 
 ## **11. Sécurité des personnes**
 
-Le Makerspace met à disposition de ses adhérents tous les EPI (Équipements de Protection Individuelle) nécessaires pour utiliser les différents équipements qui le requièrent : des gants de protection, des masques anti-poussières, des masques de soudures, des protections auditives et des protections oculaires. Si ces éléments ne sont pas disponibles sur le poste de travail, l’usager doit les demander à un StaffLab. En cas de blessure lors de l’utilisation d’un équipement du Makerspace, il en a l’obligation d’informer le LabManager présent, afin de consigner l’incident dans le registre de sécurité.
+Le Makerspace met à disposition de ses adhérents tous les EPI (Équipements de Protection Individuelle) nécessaires pour utiliser les différents équipements qui le requièrent : des gants de protection, des masques anti-poussières, des protections auditives et des protections oculaires. Si ces éléments ne sont pas disponibles sur le poste de travail, l’usager doit les demander à un StaffLab. En cas de blessure lors de l’utilisation d’un équipement du Makerspace, il en a l’obligation d’informer le LabManager présent, afin de consigner l’incident dans le registre de sécurité.
 
 Les usagers sont responsables de leur propre sécurité et doivent à ce titre :
 
