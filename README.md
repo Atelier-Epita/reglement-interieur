@@ -15,14 +15,18 @@ L'association nommée "L'Atelier" a pour objet:
 - De promouvoir l’usage et les contributions à l’informatique, au matériel et aux contenus libres ;
 - D’organiser ou de participer à tout type de manifestation et évènement en rapport avec les points abordés précédemment.
 
-Le Makerspace dans les locaux de l’EPITA, au 14 rue Voltaire, 94270 Le Kremlin-Bicêtre est ouvert au public lors de permanences, assurées par au moins un LabManager (voir ci-après).
+L'association possède plusieurs locaux, dénommé "Makerspace", ils sont ouverts au public lors de permanences, assurées par au moins un LabManager (voir ci-après).  
+
+Les makerspaces actuels se situent :
+- Pour les campus EPITA de région parisienne, au 14 rue Voltaire, 94270 Le Kremlin-Bicêtre ;
+- Pour le campus EPITA strasbourgeois, au 5 rue Gustave Adolphe Him, 67000 Strasbourg.
 
 ## **2. Usagers du MakerSpace**
 
 ### **2.1. Usagers**
 
 Les usagers du Makerspace sont l’ensemble des personnes physiques ayant ratifié la charte d’utilisation du Makerspace. Ils peuvent participer aux différentes activités proposées, et accéder librement aux équipements en fonctions des habilitations de ces derniers.
-L’accès au Makerspace est gratuit pour les élèves, enseignants et administratifs de l’EPITA et de l’EPITECH ainsi que pour les employés de Blackfoot.
+L’accès au Makerspace est gratuit pour les élèves, enseignants et administratifs du groupe IONIS.
 Les personnes extérieures doivent également ratifier la charte d’utilisation du Makerspace et être accompagnées d’un usager lors d'une permanence (voir ci-après).
 
 ### **2.2. StaffLab**
@@ -51,17 +55,21 @@ Les coordinateurs de pôle sont des StaffLab. Ils sont nommés par le bureau de 
 - Assurer la bonne communication entre les différents corps de l’association au sujet de son domaine d’activité ;
 - Assurer avec l’aide du bureau et des LabManagers la bonne communication entre l’association et tout autre tiers ;
 
-### **2.5. Propriétaire d'équipement**
+### **2.5. Responsable de campus**
+
+Les responsables de campus sont des LabManager. Ils sont nommées par le bureau de l'association. Ils sont responsable du bon fonctionnement du makerspace au sein du campus dont ils sont les responsable. Ils représente également l'association.
+
+### **2.6. Propriétaire d'équipement**
 
 Le propriétaire d’équipement est un usager du Makerspace qui a mis à disposition, pour une durée déterminée ou non, un équipement (outil, machine, matériel informatique, etc.). Le propriétaire fixe en accord avec le bureau de l’association le niveau de technicité de l’équipement, ce qui détermine les habilitations nécessaires à son utilisation. Il doit aussi contribuer à la rédaction de la fiche signalétique de cet équipement.
 **Le propriétaire peut décider de récupérer son équipement à tout moment en ayant notifié le bureau de l’association au préalable.**
 **Attention** \- L’association ou les LabManagers ne pourront être tenu responsables si l’équipement est endommagé par un autre usager. Dans ce cas de figure, il faudra faire appel à l’assurance Responsabilité Civile de l’usager ayant dégradé l’équipement.
 
-### **2.6. Visiteurs**
+### **2.7. Visiteurs**
 
 Un visiteur est une personne physique n’ayant pas ratifié la charte. Les visiteurs ne peuvent accéder aux Makerspace que sous la présence d’un LabManager. Ce visiteur sera uniquement observateur.
 
-### **2.7. Accès aux mineurs**
+### **2.8. Accès aux mineurs**
 
 Les mineurs de 18 ans peuvent accéder au Makerspace sous les conditions suivantes :
 
@@ -126,11 +134,12 @@ Chaque équipement est étiqueté en fonction de son niveau de technicité. Ces 
 
 **Rappel** \- Cet étiquetage est clairement visible sur la fiche signalétique présente à proximité de chaque équipement.
 
-On distingue 3 niveaux de technicité :
+On distingue 4 niveaux de technicité :
 
 - Vert : L’équipement est en usage libre ;
 - Orange : L’équipement ne peut être utilisé sans habilitation (voir ci-après) ;
 - Rouge : L’équipement ne peut être utilisé sans la présence d’un LabManager habilité ou du propriétaire de l’équipement, afin de s’assurer que les manipulations effectuées ne créent pas de danger pour les personnes et pour l’équipement ;
+- Noir: L'équipement ne peut être utilisé que par un LabManager habilité ou le propriétaire de l'équipement ;
 
 ### **5.3. Habilitations**
 
@@ -140,7 +149,7 @@ L’habilitation à l’utilisation d’un appareil doit être effectuée par un
 
 **Rappel** \- Les équipements ayant un niveau de technicité vert ne requièrent pas d’habilitation et peuvent être utilisés librement sans surveillance ou autorisation préalable.
 
-**Attention !** \- L’utilisation d’un équipement ayant un niveau de technicité orange ou noir sans habilitation entrainera une radiation immédiate du Makerspace et de l’association. Il en va de même en cas de non-respect des règles de sécurité.
+**Attention !** \- L’utilisation d’un équipement ayant un niveau de technicité orange, rouge ou noir sans habilitation entrainera une radiation immédiate du Makerspace et de l’association. Il en va de même en cas de non-respect des règles de sécurité.
 
 ### **5.4. Registre des habilitations**
 
