@@ -250,12 +250,12 @@ Le devis est émis par le coordinateur du pôle associé en accord avec le burea
 
 #### **7.1.1. Imprimantes 3D FDM**
 
-Sont gratuites toutes impressions 3d FDM utilisant du filament PLA ou ABS ; dont le projet présente un intérêt pédagogique justifié ; en dessous du seuil de 200g de plastique (supports compris).
+Sont gratuites toutes impressions 3d FDM utilisant du filament PLA ou ABS ; dont le projet présente un intérêt pédagogique ou fonctionnel justifié ; en dessous du seuil de 200g de plastique (supports compris).
 **Si l’une de ces conditions n’est pas rempli, il est à l’appréciation du coordinateur du pôle associé en accord avec le bureau de décider d'émettre un devis ou non.**
 
 #### **7.1.2. Imprimantes 3D Résines**
 
-Sont gratuites toutes impressions résines dont le projet présente un intérêt pédagogique justifié ; en dessous du seuil de 50ml de résine utilisé (supports compris).
+Sont gratuites toutes impressions résines dont le projet présente un intérêt pédagogique ou fonctionnel justifié ; en dessous du seuil de 50ml de résine utilisé (supports compris).
 **Si l’une de ces conditions n’est pas rempli, il est à l’appréciation du coordinateur du pôle associé en accord avec le bureau de décider d'émettre un devis ou non.**
 
 #### **7.1.3. Textile**
