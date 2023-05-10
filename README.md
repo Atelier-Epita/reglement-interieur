@@ -15,7 +15,7 @@ L'association nommée "L'Atelier" a pour objet:
 - De promouvoir l’usage et les contributions à l’informatique, au matériel et aux contenus libres ;
 - D’organiser ou de participer à tout type de manifestation et évènement en rapport avec les points abordés précédemment.
 
-L'association possède plusieurs locaux, dénommé "Makerspace", ils sont ouverts au public lors de permanences, assurées par au moins un LabManager (voir ci-après).  
+L'association possède plusieurs locaux, dénommés "Makerspace", ils sont ouverts au public lors de permanences, assurées par au moins un LabManager (voir ci-après).  
 
 Les makerspaces actuels se situent :
 - En région parisienne, au 14 rue Voltaire, 94270 Le Kremlin-Bicêtre ;
@@ -26,7 +26,7 @@ Les makerspaces actuels se situent :
 ### **2.1. Usagers**
 
 Les usagers du Makerspace sont l’ensemble des personnes physiques ayant ratifié la charte d’utilisation du Makerspace. Ils peuvent participer aux différentes activités proposées, et accéder librement aux équipements en fonctions des habilitations de ces derniers.
-L’accès au Makerspace est gratuit pour les élèves, enseignants et administratifs du groupe IONIS.
+L’accès au Makerspace est gratuit pour les élèves, enseignants et administratifs de l'EPITA et de l'EPITECH.
 Les personnes extérieures doivent également ratifier la charte d’utilisation du Makerspace et être accompagnées d’un usager lors d'une permanence (voir ci-après).
 
 ### **2.2. StaffLab**
@@ -57,7 +57,7 @@ Les coordinateurs de pôle sont des StaffLab. Ils sont nommés par le bureau de 
 
 ### **2.5. Responsable de campus**
 
-Les responsables de campus sont des LabManager. Ils sont nommées par le bureau de l'association. Ils sont responsable du bon fonctionnement du makerspace au sein du campus dont ils sont les responsable. Ils représente également l'association au sein de leur campus.
+Les responsables de campus sont des LabManager. Ils sont nommées par le bureau de l'association. Ils s'assurent et ont à charge le bon fonctionnement du makerspace au sein du campus dont ils sont les responsable. Ils représentent également l'association au sein de leur campus.
 
 ### **2.6. Propriétaire d'équipement**
 
