@@ -18,8 +18,8 @@ L'association nommée "L'Atelier" a pour objet:
 L'association possède plusieurs locaux, dénommé "Makerspace", ils sont ouverts au public lors de permanences, assurées par au moins un LabManager (voir ci-après).  
 
 Les makerspaces actuels se situent :
-- Pour les campus EPITA de région parisienne, au 14 rue Voltaire, 94270 Le Kremlin-Bicêtre ;
-- Pour le campus EPITA strasbourgeois, au 5 rue Gustave Adolphe Him, 67000 Strasbourg.
+- En région parisienne, au 14 rue Voltaire, 94270 Le Kremlin-Bicêtre ;
+- A Strasbourg, au 5 rue Gustave Adolphe Him, 67000 Strasbourg.
 
 ## **2. Usagers du MakerSpace**
 
@@ -57,7 +57,7 @@ Les coordinateurs de pôle sont des StaffLab. Ils sont nommés par le bureau de 
 
 ### **2.5. Responsable de campus**
 
-Les responsables de campus sont des LabManager. Ils sont nommées par le bureau de l'association. Ils sont responsable du bon fonctionnement du makerspace au sein du campus dont ils sont les responsable. Ils représente également l'association.
+Les responsables de campus sont des LabManager. Ils sont nommées par le bureau de l'association. Ils sont responsable du bon fonctionnement du makerspace au sein du campus dont ils sont les responsable. Ils représente également l'association au sein de leur campus.
 
 ### **2.6. Propriétaire d'équipement**
 
@@ -288,7 +288,7 @@ Les activités sont systématiquement encadrées par au moins un StaffLab à qui
 
 Les abords et les locaux du Makerspace sont sous vidéo-surveillances. Les enregistrements sont conservés pendant une durée légale de 30 jours, et serviront à lever d'éventuels doutes.
 
-<!-- TODO: conformément à [...] blabla - les espaces de travail et de repos ne sont pas placés sous vidéo surveillances -->
+Les abords et les locaux de l'association sont placés sous vidéo-surveillance conformément à la législation en vigueur. Les images sont enregistrées et conservées pendant une durée maximale de 30 jours. L'accès aux enregistrements est strictement réservé aux membres du bureau de l'association ou aux autorités compétentes en cas de besoin. Toutefois, les personnes filmées disposent d'un droit d'accès à leurs propres images captées par les caméras les concernant. Les informations recueillies par le système de vidéo-surveillance ne peuvent être utilisées qu'à des fins de sécurité des biens et des personnes. Les personnes entrant dans les locaux de l'association sont informées de l'existence et de la finalité du système de vidéo-surveillance par un écriteau placé à proximité de l'entrée des locaux placés sous vidéo-surveillance.
 
 ## **11. Sécurité des personnes**
 
