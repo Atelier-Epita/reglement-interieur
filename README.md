@@ -22,7 +22,7 @@ Le Makerspace dans les locaux de l’EPITA, au 14 rue Voltaire, 94270 Le Kremlin
 ### **2.1. Usagers**
 
 Les usagers du Makerspace sont l’ensemble des personnes physiques ayant ratifié la charte d’utilisation du Makerspace. Ils peuvent participer aux différentes activités proposées, et accéder librement aux équipements en fonctions des habilitations de ces derniers.
-L’accès au Makerspace est gratuit pour les élèves, enseignants et administratifs de l’EPITA et de l’EPITECH ainsi que pour les employés de Blackfoot.
+L’accès au Makerspace est gratuit pour les élèves, enseignants et administratifs de l’EPITA et de l’EPITECH.
 Les personnes extérieures doivent également ratifier la charte d’utilisation du Makerspace et être accompagnées d’un usager lors d'une permanence (voir ci-après).
 
 ### **2.2. StaffLab**
