@@ -196,7 +196,7 @@ Cette fiche doit:
 
 - Comporter la liste des équipements empruntés ainsi que leur état ;
 - Comporter la date de début et de fin de l’emprunt ;
-- Être signée et dument remplie par l’membre souhaitant emprunter l'équipement ;
+- Être signée et dument remplie par le membre souhaitant emprunter l'équipement ;
 - Être signée et dument remplie par un LabManager.
 
 Dès lors que l’membre a signé la fiche de prêt, il est responsable de l’équipement emprunté. Le LabManager doit vérifier que l’équipement est en bon état de fonctionnement et que l’membre est habilité à l’utiliser. Il doit également mettre à jour le registre des équipements.
