@@ -34,7 +34,7 @@ L'association est susceptible de contacter les membres par email pour les inform
 
 ### **2.2. StaffLab**
 
-Le StaffLab est un membres du Makerspace, membre de l’association ayant ratifié la fiche staff, il est responsable de l’animation du Makerspace pendant une permanence (voir ci-après). Il a dans ce cadre pour mission :
+Le StaffLab est un membre de l’association ayant ratifié la fiche staff, il est responsable de l’animation du Makerspace pendant une permanence (voir ci-après). Il a dans ce cadre pour mission :
 
 - D’accueillir les membres et éventuels visiteurs extérieurs ;
 - De veiller au respect du règlement intérieur, des consignes de sécurité et des règles d’utilisation des machines ;
