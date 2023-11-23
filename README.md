@@ -118,7 +118,7 @@ Ces évènements peuvent nécessiter une inscription en amont.
 
 ## **5. Équipements du Makerspace**
 
-L’utilisation des différents équipements est soumise à des règles strictes, afin de préserver les équipements et surtout leurs utilisateurs. Le non-respect de ces règles entraînera automatiquement la radiation de l’membre. L’association ne pourra pas être tenue responsable en cas de dommages entrainés par la mauvaise utilisation d’un équipement par un membre.
+L’utilisation des différents équipements est soumise à des règles strictes, afin de préserver les équipements et surtout leurs utilisateurs. Le non-respect de ces règles entraînera automatiquement la radiation du membre. L’association ne pourra pas être tenue responsable en cas de dommages entrainés par la mauvaise utilisation d’un équipement par un membre.
 Sont qualifiés d’équipements les outils à main, les outils électro-portatifs, les machines-outils (à commande numérique ou non), les imprimantes 3D, le matériel informatique, les stations à souder, etc. Tout objet n’étant pas du mobilier, de la matière première, des composants ou consommables est considéré comme étant un équipement.
 
 ### **5.1. Fiche signalétique**
@@ -199,7 +199,7 @@ Cette fiche doit:
 - Être signée et dument remplie par le membre souhaitant emprunter l'équipement ;
 - Être signée et dument remplie par un LabManager.
 
-Dès lors que l’membre a signé la fiche de prêt, il est responsable de l’équipement emprunté. Le LabManager doit vérifier que l’équipement est en bon état de fonctionnement et que l’membre est habilité à l’utiliser. Il doit également mettre à jour le registre des équipements.
+Dès lors que le membre a signé la fiche de prêt, il est responsable de l’équipement emprunté. Le LabManager doit vérifier que l’équipement est en bon état de fonctionnement et que le membre est habilité à l’utiliser. Il doit également mettre à jour le registre des équipements.
 
 **Aucun équipement ne peut être emprunté sans la présence d’une fiche de prêt.**
 
