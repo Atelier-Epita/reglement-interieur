@@ -242,7 +242,7 @@ Cependant, si l’membre ne souhaite pas laisse son projet au Makerspace, il a l
 
 Tout membre a la possibilité d’apporter au Makerspace ses propres matières premières, composants et consommables. Il pourra ainsi repartir avec son projet sans devoir racheter les composants utilisés.
 
-**Attention !** \- L’membre est responsable de sa matière première et de ses composants personnels. L’association ou les LabManagers ne pourront pas être tenus responsables en cas de problème (vol, utilisation par un autre membre, utilisation non conforme, etc.). Il est recommandé aux membres de ne pas laisser leur matière première sans surveillance dans les locaux du Makerspace. Des casiers sécurisés peuvent être mis à disposition.
+**Attention !** \- Le membre est responsable de sa matière première et de ses composants personnels. L’association ou les LabManagers ne pourront pas être tenus responsables en cas de problème (vol, utilisation par un autre membre, utilisation non conforme, etc.). Il est recommandé aux membres de ne pas laisser leur matière première sans surveillance dans les locaux du Makerspace. Des casiers sécurisés peuvent être mis à disposition.
 
 ## **7. Règles relatives à l'utilisation de certaines machines et consommables**
 
