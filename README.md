@@ -164,7 +164,7 @@ Le registre des habilitations est un document contenant la liste des membres hab
 ### **5.5. Consignes d'utilisation**
 
 - Après utilisation d’un équipement, et avant de quitter le Makerspace, le membre doit s’assurer de laisser propre l’espace de travail qu’il a utilisé, prendre soin de ne laisser aucun déchet et rendre opérationnel l'équipement pour les futurs membres ;
-- L’membre s’engage à informer un StaffLab de tout dysfonctionnement constaté sur l’équipement durant son utilisation ;
+- Le membre s’engage à informer un StaffLab de tout dysfonctionnement constaté sur l’équipement durant son utilisation ;
 - Porter les EPI appropriés (indiqués sur la fiche signalétique de l’équipement)
 
 **Il est interdit :**
