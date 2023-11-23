@@ -69,7 +69,7 @@ Certaines points de ce règlement peuvent être spécifiques à un campus, ils s
 
 Le propriétaire d’équipement est un membre du Makerspace qui a mis à disposition, pour une durée déterminée ou non, un équipement (outil, machine, matériel informatique, etc.). Le propriétaire fixe en accord avec le bureau de l’association le niveau de technicité de l’équipement, ce qui détermine les habilitations nécessaires à son utilisation. Il doit aussi contribuer à la rédaction de la fiche signalétique de cet équipement.
 **Le propriétaire peut décider de récupérer son équipement à tout moment en ayant notifié le bureau de l’association au préalable.**
-**Attention** \- L’association ou les StaffLab ne pourront être tenu responsables si l’équipement est endommagé par un autre membre. Dans ce cas de figure, il faudra faire appel à l’assurance Responsabilité Civile de l’membre ayant dégradé l’équipement.
+**Attention** \- L’association ou les StaffLab ne pourront être tenu responsables si l’équipement est endommagé par un autre membre. Dans ce cas de figure, il faudra faire appel à l’assurance Responsabilité Civile du membre ayant dégradé l’équipement.
 
 ### **2.7. Visiteurs**
 
