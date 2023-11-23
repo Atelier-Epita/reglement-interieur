@@ -207,7 +207,7 @@ Au retour de l’équipement, cette fiche doit être remise à un LabManager qui
 
 ## **6. Règles relatives aux consommables, composants et matières premières**
 
-L’utilisation des consommables, composants et matières premières est soumise à des règles strictes. Le non-respect de ces règles entraînera des sanctions qui pourront aller jusqu’à la radiation de l’membre.
+L’utilisation des consommables, composants et matières premières est soumise à des règles strictes. Le non-respect de ces règles entraînera des sanctions qui pourront aller jusqu’à la radiation du membre.
 
 **Sont qualifiés de consommables tout composants ou matières premières qui n’est pas un équipement ou du mobilier**, on peut citer parmi ces consommables, composants ou matières premières :
 
