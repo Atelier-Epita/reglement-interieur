@@ -236,7 +236,7 @@ Les membres doivent uniquement se servir dans les stocks de matières premières
 
 Conformément à l’article 6.1, tout projet ayant nécessité des composants d'ordre 2 doit rester dans le Makerspace.
 
-Cependant, si l’membre ne souhaite pas laisse son projet au Makerspace, il a la possibilité de racheter les composants d’ordre 2 utilisés pour son projet. Ce rachat doit être demandé à un LabManager, qui traitera la demande de rachat en accord avec le bureau et le coordinateur du pôle associé. (afin de fixer le prix de rachat notamment).
+Cependant, si le membre ne souhaite pas laisse son projet au Makerspace, il a la possibilité de racheter les composants d’ordre 2 utilisés pour son projet. Ce rachat doit être demandé à un LabManager, qui traitera la demande de rachat en accord avec le bureau et le coordinateur du pôle associé. (afin de fixer le prix de rachat notamment).
 
 ### **6.3. Matières premières, composants et consommables personnels**
 
