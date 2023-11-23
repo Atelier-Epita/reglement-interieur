@@ -228,7 +228,7 @@ Une exception est faite pour les capteurs qui eux sont qualitfiés de consommabl
 
 **Tant que leur utilisation n’empêche pas leur réutilisation future** \- les membres peuvent utiliser les consommables d’ordre 2 à disposition pour leurs différentes activités **au sein du Makerspace**, ces projets doivent rester dans le Makerspace. Des casiers sécurisés peuvent être mis à disposition.
 
-**Si l’utilisation prévue rend le composant inutilisable dans des projets futurs** \- l’membre devra au préalable demander l’autorisation d’un LabManager. Ce dernier pourra alors décider de l’autoriser ou non. Un devis pourra être demandé pour le rachat du consommable (voir ci-après).
+**Si l’utilisation prévue rend le composant inutilisable dans des projets futurs** \- le membre devra au préalable demander l’autorisation d’un LabManager. Ce dernier pourra alors décider de l’autoriser ou non. Un devis pourra être demandé pour le rachat du consommable (voir ci-après).
 
 Les membres doivent uniquement se servir dans les stocks de matières premières, consommables. **Un membre ne peut en aucun cas prendre l’initiative de démonter le projet d’un autre membre, terminé ou non**. Les projets qui sont destinés à être réutilisés seront démontés par leurs créateurs ou par les LabManagers et leurs composants et matières premières réutilisables seront réintégrés aux stocks.
 
