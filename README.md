@@ -258,7 +258,7 @@ Les membres ne peuvent pas directement manipuler ces machines mais peuvent deman
 
 ### **7.1. Prestations**
 
-Les prestations, selon la machine, la difficulté de manipulation et la quantité de consommable peuvent être gratuites ou non. Si nécessaire, un devis sera communiqué à l’membre à la suite de sa demande émise sur l’un des canaux de communication de l’association.
+Les prestations, selon la machine, la difficulté de manipulation et la quantité de consommable peuvent être gratuites ou non. Si nécessaire, un devis sera communiqué au membre à la suite de sa demande émise sur l’un des canaux de communication de l’association.
 Le devis est émis par le coordinateur du pôle associé en accord avec le bureau.
 
 **Les coordinateurs de pôles, les LabManagers ou le bureau, se réservent tout droit de refuser une prestation qu’ils jugent comme inappropriée ou non pertinente.**
