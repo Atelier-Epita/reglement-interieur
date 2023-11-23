@@ -190,7 +190,7 @@ Toute panne majeure, anomalie ou dégradation d’un équipement doit être cons
 ### **5.8. Fiche de prêt**
 
 Une fiche de prêt est un document permettant de prêter un équipement hors des locaux du Makerspace.
-Par son remplissage, l’membre s’engage à respecter les règles de sécurité et de bon usage de l'équipement emprunté.
+Par son remplissage, le membre s’engage à respecter les règles de sécurité et de bon usage de l'équipement emprunté.
 
 Cette fiche doit:
 
