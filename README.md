@@ -298,7 +298,7 @@ Les abords et les locaux de l'association sont placés sous vidéo-surveillance 
 
 ## **11. Sécurité des personnes**
 
-Le Makerspace met à disposition de ses adhérents tous les EPI (Équipements de Protection Individuelle) nécessaires pour utiliser les différents équipements qui le requièrent : des gants de protection, des masques anti-poussières, des protections auditives et des protections oculaires. Si ces éléments ne sont pas disponibles sur le poste de travail, l’membre doit les demander à un StaffLab. En cas de blessure lors de l’utilisation d’un équipement du Makerspace, il en a l’obligation d’informer le LabManager présent, afin de consigner l’incident dans le registre de sécurité.
+Le Makerspace met à disposition de ses adhérents tous les EPI (Équipements de Protection Individuelle) nécessaires pour utiliser les différents équipements qui le requièrent : des gants de protection, des masques anti-poussières, des protections auditives et des protections oculaires. Si ces éléments ne sont pas disponibles sur le poste de travail, le membre doit les demander à un StaffLab. En cas de blessure lors de l’utilisation d’un équipement du Makerspace, il en a l’obligation d’informer le LabManager présent, afin de consigner l’incident dans le registre de sécurité.
 
 Les membres sont responsables de leur propre sécurité et doivent à ce titre :
 
